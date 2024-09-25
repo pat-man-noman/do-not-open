@@ -1,0 +1,32 @@
+/* Lavender #b4befe
+Crust #11111b	
+Mauve #cba6f7	 */
+.display1{
+    background-color: #11111b;
+    text-align: center;
+}
+.head{
+    color: #cba6f7;
+    font-size: 100pt;
+    margin-top: -2.5%;
+}
+.randomImage{
+    width: 350px;
+    margin: auto;
+
+}
+.next{
+    width: 29%;
+    height: 45%;
+    color: #cba6f7;
+    background-color: #11111b;
+    font-family: ;
+    font-size: 25px;
+}
+.display2{
+    text-align: center;
+    margin: auto;
+}
+.roll {
+    margin: auto;
+}
